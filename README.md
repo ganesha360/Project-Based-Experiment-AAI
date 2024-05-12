@@ -46,7 +46,8 @@ print(f"Occurrences of '{given_name}': {name_occurrences}")
 ```
 
 ### Output:
-![kri](https://github.com/Krishna-Prakaash/Project-Based-Experiment-AAI/assets/93427144/32e39322-95cc-4509-8ee4-a4923e6d680c)
+![image](https://github.com/kiran03-jagadeesh/Project-Based-Experiment-AAI/assets/94174536/d17479a5-d92e-4acf-8efd-ffcbc0d1268d)
+
 
 ### Inference:
 
